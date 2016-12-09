@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Linq;
 
 namespace AOC2016.Day09
 {
@@ -42,7 +41,7 @@ namespace AOC2016.Day09
             var currIndex = 0;
             long totalLen = 0;
 
-            if (inData.Contains(OPEN))
+            if (inData.Contains(OPEN.ToString()))
             {
                 while (currIndex < inData.Length)
                 {
