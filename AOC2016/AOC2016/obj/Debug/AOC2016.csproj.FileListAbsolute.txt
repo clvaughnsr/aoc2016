@@ -1,0 +1,6 @@
+c:\users\clvaughn\documents\visual studio 2013\Projects\AOC2016\AOC2016\bin\Debug\AOC2016.exe.config
+c:\Users\clvaughn\Documents\Visual Studio 2013\Projects\AOC2016\AOC2016\bin\Debug\AOC2016.exe
+c:\Users\clvaughn\Documents\Visual Studio 2013\Projects\AOC2016\AOC2016\bin\Debug\AOC2016.pdb
+c:\Users\clvaughn\Documents\Visual Studio 2013\Projects\AOC2016\AOC2016\obj\Debug\AOC2016.csprojResolveAssemblyReference.cache
+c:\Users\clvaughn\Documents\Visual Studio 2013\Projects\AOC2016\AOC2016\obj\Debug\AOC2016.exe
+c:\Users\clvaughn\Documents\Visual Studio 2013\Projects\AOC2016\AOC2016\obj\Debug\AOC2016.pdb
